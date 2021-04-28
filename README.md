@@ -6,3 +6,6 @@ To access the work made during a specific class and for a specific project,
 1. Click the project that you'd like to check
 2. Click the date of the class you'd like to find the data
 After that, you should be able to see the project used for the specific class and project.
+
+## Download
+To download all the code, click the green download button that says "Code".
